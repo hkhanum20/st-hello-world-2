@@ -48,14 +48,6 @@ st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSRb4dbYL3
 st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vRPozn5z6V68mHEb3Md2NL8j4Bm9JVlb7HNhpfEmLl3W7X4Wem4iXX1B-kf9MCZtZk8e-7flJtKZ4X4/pub?start=false&loop=false&delayms=3000)")
 st.write("[Content Marketing](https://drive.google.com/file/d/1x59eYyBO1ebI9dr32G-GTrXyIU5tekpV/view)")
 
-video_file = open('C:/Users/hkhanum/Desktop/Gartner D&A Orlando_3.mp4', 'rb') 
-
-video_bytes = video_file.read() 
-
-st.video(video_bytes) 
-
-
-
 
 st.write("---")
 st.header(":mailbox: Get in Touch!")
