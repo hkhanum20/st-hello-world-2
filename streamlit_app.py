@@ -1,4 +1,4 @@
-st streamlit as st
+st. streamlit as st
 st.set_page_config(page_title="Hira Khanum's PMM Portfolio", page_icon=":tada:", layout= "wide")
 st.subheader("Hi, I am Hira :wave:")
 st.title("Product Marketing Manager")
