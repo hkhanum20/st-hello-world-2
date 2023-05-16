@@ -8,7 +8,7 @@ st.write("[Learn More>](https://docs.google.com/presentation/d/e/2PACX-1vS_XxmF0
 st.write("---")
 left_column, right_column=st.columns(2)
 with left_column:
-    st.header("Who I am:")
+    st.header("What I do:")
     st.write("##")
     st.write(
         """
@@ -21,7 +21,7 @@ with left_column:
 
 st.write("---")
 st.header("My Projects")
-st.write("[Messaging](https://docs.google.com/document/d/e/2PACX-1vSEVMPlLOMwteev8iFiHhEbGCCPjMY_iMxDjGzqS2qLTyNE0hPjoFHT6a3x9f-_47a3Al94ATHrQTnA/pub)")
+st.write("[Messaging](https://docs.google.com/document/d/1v6xcF_9axjjKVfdCu9oduyhgXQ3fbJ_TICvBf2DaIP4/edit?usp=sharing)")
 st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vRkKfeYnKeaY3VATxqXwDVYPYibyZXkuE67fEcQDcd39t2Odr2vwwYYVT_p1wwnR2gSOVLQHOjCIW7V/pub)")
 st.write("[Pitch Decks](https://docs.google.com/presentation/d/e/2PACX-1vR3kxsqrqosyGy18phB6RWzZd-vVcOidlFrW3Tmav-URjaXIWvY9SYdaDRcEEI3yQ/pub?start=true&loop=true&delayms=3000)")
 st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6KzwKJ3X4y4yxmA5gw5IpfYpd5I0BEtzsync3_15xIBicW7zwu5u5HS10QCJbrg/pubhtml)")
@@ -33,7 +33,7 @@ st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1fFvIDtUa4jhPk0
 st.write("[Analyst Relations](https://docs.google.com/presentation/d/1t6WUhhB47fjbp5Xkbu9YhjZHOx_jMD02/edit?usp=sharing&ouid=103315499357448539628&rtpof=true&sd=true)")
 st.write("[Webinars](https://docs.google.com/presentation/d/e/2PACX-1vTiXkbKgw2PRsPbgCRYCChW5Jdh0D4JNjJIktmzMoGCIpB59L-bZ93wiEEYjIV1Tg/pub?start=false&loop=false&delayms=3000)")
 st.write("[Demos](https://drive.google.com/file/d/1VqsZuiQ_KQ0VHjPXvnRO_nB1hvxvjD9a/view?usp=sharing)")
-st.write("[Communications Briefs](https://docs.google.com/document/d/e/2PACX-1vRl87wO_1098BZgLRDRx4FNoUNEgTTc2fobbsDyrx24ds-QUmOOIxlLN_9u-pQiEw/pub)")
+st.write("[Communications Briefs](https://docs.google.com/document/d/e/2PACX-1vSxDh8-WkGH4JBIzF8vMI4W3GRPhbvNPa6H1rDQWTiEwD4v-EI4enqL8N2bV4gQImI-dP01qz3p_TDw/pub)")
 st.write("[Sales Enablement](https://docs.google.com/presentation/d/1d8RChnXq4QcyjSuJMYttHkrKMoXUwLdn/edit?usp=share_link&ouid=103315499357448539628&rtpof=true&sd=true)")
 st.write("[Sales Trainings](https://docs.google.com/presentation/d/e/2PACX-1vST8LEBAcMozRNBcoUFdNB5-QddKqhsUxsjD3IRkEnyh7H0I5pvwDj14SMqHplSgw/pub?start=false&loop=false&delayms=3000)")
 st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vQbMrpUh2Ay7AWlIfFVsXXUPXoPglF3961HVYr_wjqhNiZL6tMJ8UkVhiyJq4SBbw/pub?start=false&loop=false&delayms=3000)")
@@ -47,6 +47,16 @@ st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/e/2PACX-1vS
 st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSRb4dbYL35r9d5wngq3UuepwasIoq0RCbtEsG_a0FZSMKhr75YF8ZUtivszhn5rFQwb-7GpA8o-pR2/pub?start=false&loop=false&delayms=3000)")
 st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vRPozn5z6V68mHEb3Md2NL8j4Bm9JVlb7HNhpfEmLl3W7X4Wem4iXX1B-kf9MCZtZk8e-7flJtKZ4X4/pub?start=false&loop=false&delayms=3000)")
 st.write("[Content Marketing](https://drive.google.com/file/d/1x59eYyBO1ebI9dr32G-GTrXyIU5tekpV/view)")
+st.write("[Project Management](https://docs.google.com/spreadsheets/d/1FsJ1KFb2oSmHs8I7NzZy6LY6ZHOkLbGLgBxC66dgsDU/edit?usp=sharing)")
+
+         
+video_file = open('C:/Users/hkhanum/Desktop/Gartner D&A Orlando_3.mp4', 'rb') 
+
+video_bytes = video_file.read() 
+
+st.video(video_bytes) 
+
+
 
 
 st.write("---")
@@ -67,4 +77,8 @@ with left_column:
 with right_column:
     st.empty()
     
+
+
+
+
 
