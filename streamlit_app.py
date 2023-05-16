@@ -1,4 +1,4 @@
-import streamlit as st
+t streamlit as st
 st.set_page_config(page_title="Hira Khanum's PMM Portfolio", page_icon=":tada:", layout= "wide")
 st.subheader("Hi, I am Hira :wave:")
 st.title("Product Marketing Manager")
@@ -22,30 +22,31 @@ with left_column:
 st.write("---")
 st.header("My Projects")
 st.write("[Messaging](https://docs.google.com/document/d/1v6xcF_9axjjKVfdCu9oduyhgXQ3fbJ_TICvBf2DaIP4/edit?usp=sharing)")
-st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vRkKfeYnKeaY3VATxqXwDVYPYibyZXkuE67fEcQDcd39t2Odr2vwwYYVT_p1wwnR2gSOVLQHOjCIW7V/pub)")
-st.write("[Pitch Decks](https://docs.google.com/presentation/d/e/2PACX-1vR3kxsqrqosyGy18phB6RWzZd-vVcOidlFrW3Tmav-URjaXIWvY9SYdaDRcEEI3yQ/pub?start=true&loop=true&delayms=3000)")
-st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6KzwKJ3X4y4yxmA5gw5IpfYpd5I0BEtzsync3_15xIBicW7zwu5u5HS10QCJbrg/pubhtml)")
-st.write("[Product Roadmaps](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcC4XKMebx2PxupLiC_e_6Re3p0-fwUSXOHB-ooDwnumu-g2EVwEoqsbfcb_pGGA/pubhtml)")
-st.write("[Launch Plans](https://docs.google.com/spreadsheets/d/e/2PACX-1vR3bA5YXmExekQKcZJYW1vyeU41f-XeKfViH1QKpdPt5ja4ufmPe0VVbZMp0Dy5Pm4hh6rRC9zOGVdk/pubhtml)")
-st.write("[Release Plans](https://docs.google.com/presentation/d/e/2PACX-1vR611RRIqRa_jfLq2IXYOofzLFpfB1RqK9IEAvv9arMljeZApNlFMQUiUDSxRpuU-BQhLmYgfWbhFep/pub?start=false&loop=false&delayms=3000)")
-st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/e/2PACX-1vTQOasSMIiZuAGRPvo5YFuu2wVV_t5TknVp1a_sYICC1wEum7DvxsPUN0L78DeMvQ/pub?start=false&loop=false&delayms=3000)")
-st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1fFvIDtUa4jhPk0WCT2DKT3dw1QzF8Iuh/view?usp=share_link)")
+st.write("[Positioning](https://docs.google.com/document/d/1ys5fGKr2L-W9nTL6rLizJN7FZT-YAuIcgTwmnWkSWL8/edit?usp=sharing)")
+st.write("[Pitch Decks](https://docs.google.com/presentation/d/1FwWMaVUZpsYulSinO21lWutxGHv4Efpv/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/19rrw-aLvAOTAx2Dpn0-OiQsaIUb--SA-/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Product Roadmaps](https://docs.google.com/presentation/d/1ucT6gITYfu-5tpXs9pOCdLzJVQ_fAq9q/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Launch Plans](https://docs.google.com/spreadsheets/d/1r1wTNNeBhW2t1MUoVoK6RnPxp4E7wDb_Fam0oRa5ybA/edit?usp=sharing)")
+st.write("[Release Plans](https://docs.google.com/presentation/d/14ZmaOcGeFOdfAuJdUZJM_bMDzJu768kAedD4AOCjcng/edit?usp=sharing)")
+st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/16m_9dCtl-iwX4UNGKsbDAzS1k4g-XN9K/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1fFvIDtUa4jhPk0WCT2DKT3dw1QzF8Iuh/view?usp=sharing)")
 st.write("[Analyst Relations](https://docs.google.com/presentation/d/1t6WUhhB47fjbp5Xkbu9YhjZHOx_jMD02/edit?usp=sharing&ouid=103315499357448539628&rtpof=true&sd=true)")
-st.write("[Webinars](https://docs.google.com/presentation/d/e/2PACX-1vTiXkbKgw2PRsPbgCRYCChW5Jdh0D4JNjJIktmzMoGCIpB59L-bZ93wiEEYjIV1Tg/pub?start=false&loop=false&delayms=3000)")
+st.write("[Webinars](https://docs.google.com/presentation/d/1KZpADf6lDSlOzPbTLmKUe-z-JANcvElA/edit?usp=sharing&ouid=103315499357448539628&rtpof=true&sd=true)")
 st.write("[Demos](https://drive.google.com/file/d/1VqsZuiQ_KQ0VHjPXvnRO_nB1hvxvjD9a/view?usp=sharing)")
-st.write("[Communications Briefs](https://docs.google.com/document/d/e/2PACX-1vSxDh8-WkGH4JBIzF8vMI4W3GRPhbvNPa6H1rDQWTiEwD4v-EI4enqL8N2bV4gQImI-dP01qz3p_TDw/pub)")
-st.write("[Sales Enablement](https://docs.google.com/presentation/d/1d8RChnXq4QcyjSuJMYttHkrKMoXUwLdn/edit?usp=share_link&ouid=103315499357448539628&rtpof=true&sd=true)")
-st.write("[Sales Trainings](https://docs.google.com/presentation/d/e/2PACX-1vST8LEBAcMozRNBcoUFdNB5-QddKqhsUxsjD3IRkEnyh7H0I5pvwDj14SMqHplSgw/pub?start=false&loop=false&delayms=3000)")
-st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vQbMrpUh2Ay7AWlIfFVsXXUPXoPglF3961HVYr_wjqhNiZL6tMJ8UkVhiyJq4SBbw/pub?start=false&loop=false&delayms=3000)")
+st.write("[Communications Briefs](https://docs.google.com/document/d/1vQiQkSd-8GBNdH394XzeZn8a0HA_Z6tVwd5PvuJGY1s/edit?usp=sharing)")
+st.write("[Sales Enablement](https://docs.google.com/presentation/d/1OwdEl23YIPXWNrzC-aR-DE880ioyS98ByBTPi3QA7S4/edit?usp=sharing)")
+st.write("[Sales Trainings](https://docs.google.com/presentation/d/1l_raTO21QGlZh1y9sCADzcPN23VQ1-lG/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[2-Pagers](https://docs.google.com/presentation/d/1e7yrktZroV1dCHHn5VuM7oyuRCk4_3QX/edit?usp=sharing&ouid=103315499357448539628&rtpof=true&sd=true)")
 st.write("[1-Pagers](https://drive.google.com/file/d/1neGn0gif-vvrrN-zAQLnHdX7udGilio8/view?usp=sharing)")
-st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vRUmKU1zjBDQ7TcF967J4mQY5NQGPYLU_WOypuG6cxmtQTLYNOSLhORh5dw6I8bKg/pub?start=false&loop=false&delayms=3000)")
-st.write("[Case Studies](https://docs.google.com/presentation/d/e/2PACX-1vRTBug5tCa6KUQloqipzKhXC2BLgtA5cJdgotyjlVpD5zMnPWyzRionvqbltdv_fQ/pub?start=false&loop=false&delayms=3000)")
-st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vSXH3x46_zKMSg9bdWqcQe2HnmiDu_9aydD5vBh1irw7AM7zE1Lkxpw0xqh_6gyUA/pub)")
-st.write("[Data Sheets](https://docs.google.com/document/d/e/2PACX-1vRbaaWkn6UYO07b-tJys8a2bjsoZ4oNtQ4WpeHAu9J7bPSdSTX6VuhV2uZ-pa7-HqBFR8ilvcuZCBHk/pub)")
-st.write("[Competition](https://docs.google.com/document/d/e/2PACX-1vQlv5bnBGFVLX28zScm2s5ohMfhDwneZZYh2j5Dc_QoL4CLYqLMnKm-RWHlRoiAvai0TpwQWuO3ID7r/pub)")
-st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/e/2PACX-1vSeIWY8eBy7gD3uVw_frj_nb6VqeYY08HRI8iD0eJ5_HxtbVt5vTWaHQkvqn3SKxw/pub?start=false&loop=false&delayms=3000)")
-st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSRb4dbYL35r9d5wngq3UuepwasIoq0RCbtEsG_a0FZSMKhr75YF8ZUtivszhn5rFQwb-7GpA8o-pR2/pub?start=false&loop=false&delayms=3000)")
-st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vRPozn5z6V68mHEb3Md2NL8j4Bm9JVlb7HNhpfEmLl3W7X4Wem4iXX1B-kf9MCZtZk8e-7flJtKZ4X4/pub?start=false&loop=false&delayms=3000)")
+st.write("[Personas & ICPs](https://docs.google.com/presentation/d/17xGZ2npOi1xTwcrkiFRCYZluoSbcUDxx/edit?usp=sharing&ouid=103315499357448539628&rtpof=true&sd=true)")
+st.write("[Case Studies](https://docs.google.com/presentation/d/1Y-JUyADSrTGitWi0K0KUL9HB8pti9g3N/edit?usp=sharing&ouid=103315499357448539628&rtpof=true&sd=true)")
+st.write("[Cheat Sheets](https://docs.google.com/document/d/1CghP76BjfBTvqHZ5pUwTZYNuBfG6Ge6n/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true")
+st.write("[Data Sheets](https://docs.google.com/document/d/16EX-GACU2sFJCj0KaaaXDF0P0YcYA9pvMeokV7NKdsI/edit?usp=sharing)")
+st.write("[Competition](https://docs.google.com/document/d/1p9XY6gBAlurFyfnfeBeR-eBmyqlV5RljwYgvUFmlc2s/edit?usp=sharing)")
+st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/1ExDCJxQt9sannhimyzZBSoYRwAt3Rb87/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Campaigns](https://docs.google.com/presentation/d/1a_UsdyYtjRwIXirOa8Rog2lGY1S3Jyytz4vTA0CMgKM/edit?usp=sharing)")
+st.write("[Branding](https://docs.google.com/presentation/d/1G_PrzoIxVPEnTQ7ww_elRkgTImeQMPf-iS3FezLXeDg/edit?usp=sharing)")
+st.write("[Open Source](https://docs.google.com/presentation/d/1AMFWoCbQSNAO7EX4GUNkvev_ppVAQbA9mhvPvHY-nEs/edit?usp=sharing)")
 st.write("[Content Marketing](https://drive.google.com/file/d/1x59eYyBO1ebI9dr32G-GTrXyIU5tekpV/view)")
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/1FsJ1KFb2oSmHs8I7NzZy6LY6ZHOkLbGLgBxC66dgsDU/edit?usp=sharing)")
 
@@ -77,8 +78,3 @@ with left_column:
 with right_column:
     st.empty()
     
-
-
-
-
-
