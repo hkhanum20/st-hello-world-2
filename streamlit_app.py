@@ -68,4 +68,3 @@ with right_column:
     st.empty()
     
 
-
