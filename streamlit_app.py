@@ -51,14 +51,6 @@ st.write("[Content Marketing](https://drive.google.com/file/d/1x59eYyBO1ebI9dr32
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/1FsJ1KFb2oSmHs8I7NzZy6LY6ZHOkLbGLgBxC66dgsDU/edit?usp=sharing)")
 
          
-video_file = open('C:/Users/hkhanum/Desktop/Gartner D&A Orlando_3.mp4', 'rb') 
-
-video_bytes = video_file.read() 
-
-st.video(video_bytes) 
-
-
-
 
 st.write("---")
 st.header(":mailbox: Get in Touch!")
