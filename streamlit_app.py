@@ -6,7 +6,7 @@ st.title("Product Marketing Manager")
 st.write("I am a data-driven, “full-stack” Product Marketer in enterprise software. And I am on a mission to move the world forward using technology to make opportunities for growth more accessible.")
 st.write("[Learn More>](https://docs.google.com/presentation/d/e/2PACX-1vS_XxmF0pVWidAxlSjff5MH4pi123YP-ugvxIS8j5nf_5gtlvlugc88O7EIDdZOJAyfyE7ZKTrqrJlE/pub?start=false&loop=false&delayms=3000)")
 st.write("---")
-components.iframe(https://docs.google.com/presentation/d/e/2PACX-1vTqDCHe8qtObJPj4JXpPkNGb-IOjTL7DOGr4sVC_WOQKp79s2FRW3zNK9gMjWGFLDk37_vXuok7IviO/embed?start=false&loop=false&delayms=3000, heaight=480)
+components.iframe(https://docs.google.com/presentation/d/e/2PACX-1vTqDCHe8qtObJPj4JXpPkNGb-IOjTL7DOGr4sVC_WOQKp79s2FRW3zNK9gMjWGFLDk37_vXuok7IviO/embed?start=false&loop=false&delayms=3000, height=480)
 st.write("---")
 left_column, right_column=st.columns(2)
 with left_column:
