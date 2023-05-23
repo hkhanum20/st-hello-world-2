@@ -41,7 +41,7 @@ st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vRv_pxF7f9b
 st.write("[1-Pagers](https://drive.google.com/file/d/1PK09u6vdaFLVLfRzGhFgMkcnnLWegjDc/view?usp=sharing)")
 st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vSoE6TuNYwLFfHGlZpkcKVJrJAR0fRAQMKmoZuY9Ft2QC5a1NevMPNzqCtTuQV2Xv3ZUlop38jcObOJ/pub?start=false&loop=false&delayms=3000)")
 st.write("[Case Studies](https://docs.google.com/presentation/d/e/2PACX-1vSpPbGaJO9U-HwBDBo5FCG1p1f-oENv0_2n-4WOIVpMCyFHRb2K4Pcjz22dL0ycdRyPIKpSeGiuFoKB/pub?start=false&loop=false&delayms=3000)")
-st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vRbIMZ__fREBPa58rkLSfowoQisspEoAzKozaKPhh2O9Wfjds-i1NBmFHSdZmbLd10_xEABfFmgxtyh/pub")
+st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vRbIMZ__fREBPa58rkLSfowoQisspEoAzKozaKPhh2O9Wfjds-i1NBmFHSdZmbLd10_xEABfFmgxtyh/pub)")
 st.write("[Data Sheets](https://docs.google.com/document/d/e/2PACX-1vRZ-Vslhg_AKDF5iBfClFbHIvymL4vgoN0yrZPnhpKOxOOuzIAbZBjYljB45iWKeK94EScObevYMiHN/pub)")
 st.write("[Competition](https://docs.google.com/document/d/e/2PACX-1vSwh-0ipAVZE6fCRRjLRHfD9z4fIIzMtYnc6JR5lXWZ7imNS2r9oMqLYNkKcW9ZOBYo3anzTjrC2nV5/pub)")
 st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/e/2PACX-1vQ-XkotkBmc6phfZpy03Ni2FTmJJfDbuJNAppp5pT1HRrwGFjLqwo4Vmssy__OCXYwfA7BmOs9NSBrH/pub?start=false&loop=false&delayms=3000)")
