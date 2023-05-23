@@ -6,8 +6,7 @@ st.title("Product Marketing Manager")
 st.write("I am a data-driven, “full-stack” Product Marketer in enterprise software. And I am on a mission to move the world forward using technology to make opportunities for growth more accessible.")
 st.write("[Learn More>](https://docs.google.com/presentation/d/e/2PACX-1vQG8dkOO-GE4Hi6vYz2l00wPHaCqs0m-cOsaO3uT6ewxXNPHUZMzLCJ9UpbVCAmoA/pub?start=true&loop=true&delayms=3000)")
 st.write("---")
-components.iframe(""" <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_XxmF0pVWidAxlSjff5MH4pi123YP-ugvxIS8j5nf_5gtlvlugc88O7EIDdZOJAyfyE7ZKTrqrJlE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>""", height=480)
-st.write("---")
+
 left_column, right_column=st.columns(2)
 with left_column:
     st.header("What I do:")
@@ -23,7 +22,7 @@ with left_column:
 
 st.write("---")
 st.header("My Projects")
-st.write("[Messaging](https://docs.google.com/document/d/1v6xcF_9axjjKVfdCu9oduyhgXQ3fbJ_TICvBf2DaIP4/edit?usp=sharing)")
+st.write("[Messaging](https://docs.google.com/document/d/e/2PACX-1vQmN2cSvEaqy_1tfDpSz-Q4a5wakVi2XIevC0q9rM-bQ5G_aT0K81VrJe-A-o4UbJFFLfSijGQvxxpD/pub)")
 st.write("[Positioning](https://docs.google.com/document/d/1ys5fGKr2L-W9nTL6rLizJN7FZT-YAuIcgTwmnWkSWL8/edit?usp=sharing)")
 st.write("[Pitch Decks](https://docs.google.com/presentation/d/1FwWMaVUZpsYulSinO21lWutxGHv4Efpv/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/19rrw-aLvAOTAx2Dpn0-OiQsaIUb--SA-/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
