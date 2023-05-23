@@ -3,7 +3,8 @@ import streamlit.components.v1 as components
 st.set_page_config(page_title="Hira Khanum's PMM Portfolio", page_icon=":tada:", layout= "wide")
 st.subheader("Hi, I am Hira :wave:")
 st.title("Product Marketing Manager")
-st.write("I am a data-driven, “full-stack” Product Marketer in enterprise software. And I am on a mission to move the world forward using technology to make opportunities for growth more accessible.")
+st.write("I am a data-driven, “full-stack” Product Marketer in enterprise software. 
+         And I am on a mission to move the world forward using technology to make opportunities for growth more accessible.")
 st.write("[Learn More>](https://docs.google.com/presentation/d/e/2PACX-1vQG8dkOO-GE4Hi6vYz2l00wPHaCqs0m-cOsaO3uT6ewxXNPHUZMzLCJ9UpbVCAmoA/pub?start=true&loop=true&delayms=3000)")
 st.write("---")
 
