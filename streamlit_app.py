@@ -23,7 +23,7 @@ with left_column:
 st.write("---")
 st.header("My Projects")
 st.write("[Messaging](https://docs.google.com/document/d/e/2PACX-1vQmN2cSvEaqy_1tfDpSz-Q4a5wakVi2XIevC0q9rM-bQ5G_aT0K81VrJe-A-o4UbJFFLfSijGQvxxpD/pub)")
-st.write("[Positioning](https://docs.google.com/document/d/1ys5fGKr2L-W9nTL6rLizJN7FZT-YAuIcgTwmnWkSWL8/edit?usp=sharing)")
+st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vTDXPV2nMiz5j8Q3tQa-B0l5TdNvu-6pGa8H3ZrVv2gGq2gvU-b0NlMrXQ6ocror3G-ggXIX7bBN5G3/pub)")
 st.write("[Pitch Decks](https://docs.google.com/presentation/d/1FwWMaVUZpsYulSinO21lWutxGHv4Efpv/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/19rrw-aLvAOTAx2Dpn0-OiQsaIUb--SA-/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Product Roadmaps](https://docs.google.com/presentation/d/1ucT6gITYfu-5tpXs9pOCdLzJVQ_fAq9q/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
